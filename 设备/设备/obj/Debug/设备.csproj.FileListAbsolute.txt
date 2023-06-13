@@ -1,0 +1,15 @@
+E:\代码文件夹\设备\设备\bin\Debug\设备.exe.config
+E:\代码文件夹\设备\设备\bin\Debug\设备.exe
+E:\代码文件夹\设备\设备\bin\Debug\设备.pdb
+E:\代码文件夹\设备\设备\obj\Debug\设备.csproj.AssemblyReference.cache
+E:\代码文件夹\设备\设备\obj\Debug\设备.csproj.SuggestedBindingRedirects.cache
+E:\代码文件夹\设备\设备\obj\Debug\设备.MainFrm.resources
+E:\代码文件夹\设备\设备\obj\Debug\设备.Properties.Resources.resources
+E:\代码文件夹\设备\设备\obj\Debug\设备.SelectName.resources
+E:\代码文件夹\设备\设备\obj\Debug\设备.csproj.GenerateResource.cache
+E:\代码文件夹\设备\设备\obj\Debug\设备.csproj.CoreCompileInputs.cache
+E:\代码文件夹\设备\设备\obj\Debug\设备.exe
+E:\代码文件夹\设备\设备\obj\Debug\设备.pdb
+E:\代码文件夹\设备\设备\obj\Debug\设备.DataMaint.resources
+E:\代码文件夹\设备\设备\obj\Debug\设备.Login.resources
+E:\代码文件夹\设备\设备\obj\Debug\设备.SelectPrice.resources

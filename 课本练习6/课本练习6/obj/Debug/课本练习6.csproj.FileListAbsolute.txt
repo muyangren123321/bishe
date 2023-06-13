@@ -1,0 +1,11 @@
+E:\代码文件夹\课本练习6\课本练习6\bin\Debug\课本练习6.exe.config
+E:\代码文件夹\课本练习6\课本练习6\bin\Debug\课本练习6.exe
+E:\代码文件夹\课本练习6\课本练习6\bin\Debug\课本练习6.pdb
+E:\代码文件夹\课本练习6\课本练习6\obj\Debug\课本练习6.csproj.AssemblyReference.cache
+E:\代码文件夹\课本练习6\课本练习6\obj\Debug\课本练习6.csproj.SuggestedBindingRedirects.cache
+E:\代码文件夹\课本练习6\课本练习6\obj\Debug\课本练习6.Form1.resources
+E:\代码文件夹\课本练习6\课本练习6\obj\Debug\课本练习6.Properties.Resources.resources
+E:\代码文件夹\课本练习6\课本练习6\obj\Debug\课本练习6.csproj.GenerateResource.cache
+E:\代码文件夹\课本练习6\课本练习6\obj\Debug\课本练习6.csproj.CoreCompileInputs.cache
+E:\代码文件夹\课本练习6\课本练习6\obj\Debug\课本练习6.exe
+E:\代码文件夹\课本练习6\课本练习6\obj\Debug\课本练习6.pdb

@@ -1,0 +1,8 @@
+E:\代码文件夹\网课5\网课5\bin\Debug\网课5.exe.config
+E:\代码文件夹\网课5\网课5\bin\Debug\网课5.exe
+E:\代码文件夹\网课5\网课5\bin\Debug\网课5.pdb
+E:\代码文件夹\网课5\网课5\obj\Debug\网课5.csproj.AssemblyReference.cache
+E:\代码文件夹\网课5\网课5\obj\Debug\网课5.csproj.SuggestedBindingRedirects.cache
+E:\代码文件夹\网课5\网课5\obj\Debug\网课5.csproj.CoreCompileInputs.cache
+E:\代码文件夹\网课5\网课5\obj\Debug\网课5.exe
+E:\代码文件夹\网课5\网课5\obj\Debug\网课5.pdb

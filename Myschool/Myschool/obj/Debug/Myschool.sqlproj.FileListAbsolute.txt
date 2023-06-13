@@ -1,0 +1,10 @@
+E:\代码文件夹\Myschool\Myschool\bin\Debug\Myschool.dacpac
+E:\代码文件夹\Myschool\Myschool\bin\Debug\Myschool.dll
+E:\代码文件夹\Myschool\Myschool\bin\Debug\Myschool.pdb
+E:\代码文件夹\Myschool\Myschool\obj\Debug\Myschool.sqlproj.AssemblyReference.cache
+E:\代码文件夹\Myschool\Myschool\obj\Debug\Model.xml
+E:\代码文件夹\Myschool\Myschool\obj\Debug\refactor.xml
+E:\代码文件夹\Myschool\Myschool\obj\Debug\postdeploy.sql
+E:\代码文件夹\Myschool\Myschool\obj\Debug\predeploy.sql
+E:\代码文件夹\Myschool\Myschool\obj\Debug\Myschool.dll
+E:\代码文件夹\Myschool\Myschool\obj\Debug\Myschool.pdb
